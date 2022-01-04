@@ -10,9 +10,9 @@ I used this data to answer the following research questions:
  
  
  ## Files
-`functions.py`: python file with all the functions used in .ipynb file
-`ml_neuroimages.ipynb`: jupyter notebook file with research write-up, dataframes and visualizations
-`brain.data.csv.zip`: compressed file of all the brain images as vectors for each parcellation technique
-`train_test_data.csv`: file of pandas dataframe of standardized arrays of the parcellation vectors 
-`testing_data.csv`: file of pandas dataframe of accuracy and f-1 scores for each priming condition x parcellation technique x algorithm combination
-`data folder`: file folder of 270 nii.gz fMRI images 
+* `functions.py`: python file with all the functions used in .ipynb file
+* `ml_neuroimages.ipynb`: jupyter notebook file with research write-up, dataframes and visualizations
+* `brain.data.csv.zip`: compressed file of all the brain images as vectors for each parcellation technique
+* `train_test_data.csv`: file of pandas dataframe of standardized arrays of the parcellation vectors 
+* `testing_data.csv`: file of pandas dataframe of accuracy and f-1 scores for each priming condition x parcellation technique x algorithm combination
+* `data`: file folder of 270 nii.gz fMRI images 
