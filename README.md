@@ -11,7 +11,8 @@ I used this data to answer the following research questions:
  
  ## Files
 * `functions.py`: python file with all the functions used in .ipynb file
-* `ml_neuroimages.ipynb`: jupyter notebook file with research write-up, dataframes and visualizations
+* `ml_neuro_research_report.ipynb`: jupyter notebook file with research write-up, dataframes and visualizations
+* `ml_neuro_dataframes.ipynb`: jupyter notebook file of code used to create brain_data.csv, train_test_data.csv, testing_data.csv
 * `brain.data.csv.zip`: compressed file of all the brain images as vectors for each parcellation technique
 * `train_test_data.csv`: file of pandas dataframe of standardized arrays of the parcellation vectors 
 * `testing_data.csv`: file of pandas dataframe of accuracy and f-1 scores for each priming condition x parcellation technique x algorithm combination
